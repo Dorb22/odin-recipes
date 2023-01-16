@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project in The Odin Project. It will test all the knowledge I acquired from the previous lessons from the Git workflow to HTML basics. This will be developed further once CSS is learned.
